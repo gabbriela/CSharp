@@ -38,6 +38,10 @@ namespace _04.BookProblem
 
 
 
+
+
+
+
             //int pages = Int32.Parse(Console.ReadLine());
             //int campingDays = Int32.Parse(Console.ReadLine());
             //int pagesInNormalDay = Int32.Parse(Console.ReadLine());
